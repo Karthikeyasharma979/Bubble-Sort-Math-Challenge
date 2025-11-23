@@ -1,0 +1,5 @@
+{
+  "name": "Bubble Sort Math Challenge",
+  "description": "A cognitive training game where users sort math expressions from lowest to highest value, powered by Gemini for infinite levels.",
+  "requestFramePermissions": []
+}
